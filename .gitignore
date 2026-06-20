@@ -1,4 +1,16 @@
-.gitingnore
+.gitignore
 venv/
 __pycache__/
 *.pyc
+.vscode/
+.DS_Store
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+pip-wheel-metadata/
+.mypy_cache/
+.ropeproject/
+*.egg
+.eggs/
