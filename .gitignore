@@ -1,0 +1,4 @@
+.gitingnore
+venv/
+__pycache__/
+*.pyc
