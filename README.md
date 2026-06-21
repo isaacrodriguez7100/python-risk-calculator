@@ -1,4 +1,4 @@
-# python-risk-calculator
+# Python Risk Calculator
 
 A small Python tool that calculates position sizing and risk exposure. Given the lower and upper limits of a price candle, the calculator outputs values per contract, recommended contract amount, recommended stop loss line, and recommended gain lines based on the ORB (Opening Range Breakout) day-trading strategy.
 
@@ -35,12 +35,6 @@ Notes:
 - `Risk_Calculator_ORB.py` — main script
 - `LICENSE` — MIT License
 
-## Suggestions / Next steps
+## Example
 
-- Add `requirements.txt` or `pyproject.toml` if you add dependencies.
-- Convert the script to accept CLI arguments for non-interactive use.
-- Add unit tests and a short example script or sample data.
-
-## License
-
-MIT License — see the `LICENSE` file in this repository.
+- <img width="284" height="185" alt="Screenshot 2026-06-21 at 1 13 27 AM" src="https://github.com/user-attachments/assets/3439357d-5f67-4b3a-a1f8-123c0f657689" />
