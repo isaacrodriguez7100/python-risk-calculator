@@ -37,4 +37,4 @@ Notes:
 
 ## Example
 
-- <img width="284" height="185" alt="Screenshot 2026-06-21 at 1 13 27 AM" src="https://github.com/user-attachments/assets/3439357d-5f67-4b3a-a1f8-123c0f657689" />
+<img width="284" height="185" alt="Screenshot 2026-06-21 at 1 13 27 AM" src="https://github.com/user-attachments/assets/3439357d-5f67-4b3a-a1f8-123c0f657689" />
